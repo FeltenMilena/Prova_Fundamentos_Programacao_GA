@@ -1,4 +1,4 @@
-# ProvaFundProgGA
+# Fundamento de Programação - Grau A
 Prova de Fundamento de Programação - Grau A
 
 Questões:
